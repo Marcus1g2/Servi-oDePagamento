@@ -1,0 +1,14 @@
+C:\Users\Marcu\OneDrive\Documents\GitHub\C#\ServiçoDePagamento\ServiçoDePagamento\bin\Debug\net7.0\ServiçoDePagamento.exe
+C:\Users\Marcu\OneDrive\Documents\GitHub\C#\ServiçoDePagamento\ServiçoDePagamento\bin\Debug\net7.0\ServiçoDePagamento.deps.json
+C:\Users\Marcu\OneDrive\Documents\GitHub\C#\ServiçoDePagamento\ServiçoDePagamento\bin\Debug\net7.0\ServiçoDePagamento.runtimeconfig.json
+C:\Users\Marcu\OneDrive\Documents\GitHub\C#\ServiçoDePagamento\ServiçoDePagamento\bin\Debug\net7.0\ServiçoDePagamento.dll
+C:\Users\Marcu\OneDrive\Documents\GitHub\C#\ServiçoDePagamento\ServiçoDePagamento\bin\Debug\net7.0\ServiçoDePagamento.pdb
+C:\Users\Marcu\OneDrive\Documents\GitHub\C#\ServiçoDePagamento\ServiçoDePagamento\obj\Debug\net7.0\ServiçoDePagamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcu\OneDrive\Documents\GitHub\C#\ServiçoDePagamento\ServiçoDePagamento\obj\Debug\net7.0\ServiçoDePagamento.AssemblyInfoInputs.cache
+C:\Users\Marcu\OneDrive\Documents\GitHub\C#\ServiçoDePagamento\ServiçoDePagamento\obj\Debug\net7.0\ServiçoDePagamento.AssemblyInfo.cs
+C:\Users\Marcu\OneDrive\Documents\GitHub\C#\ServiçoDePagamento\ServiçoDePagamento\obj\Debug\net7.0\ServiçoDePagamento.csproj.CoreCompileInputs.cache
+C:\Users\Marcu\OneDrive\Documents\GitHub\C#\ServiçoDePagamento\ServiçoDePagamento\obj\Debug\net7.0\ServiçoDePagamento.dll
+C:\Users\Marcu\OneDrive\Documents\GitHub\C#\ServiçoDePagamento\ServiçoDePagamento\obj\Debug\net7.0\refint\ServiçoDePagamento.dll
+C:\Users\Marcu\OneDrive\Documents\GitHub\C#\ServiçoDePagamento\ServiçoDePagamento\obj\Debug\net7.0\ServiçoDePagamento.pdb
+C:\Users\Marcu\OneDrive\Documents\GitHub\C#\ServiçoDePagamento\ServiçoDePagamento\obj\Debug\net7.0\ServiçoDePagamento.genruntimeconfig.cache
+C:\Users\Marcu\OneDrive\Documents\GitHub\C#\ServiçoDePagamento\ServiçoDePagamento\obj\Debug\net7.0\ref\ServiçoDePagamento.dll
